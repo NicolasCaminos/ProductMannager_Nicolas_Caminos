@@ -1,0 +1,6 @@
+<h1>Real Time Products</h1>
+
+<p id="productsContent"></p>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/realtimeproducts.js"></script>
